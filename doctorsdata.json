@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Dr Salim Yusuf",
+    "specialist": "Cardiologist",
+    "nationality": "Indian-born Canadian",
+    "img": "https://dailynews.mcmaster.ca/wp-content/uploads/sites/3/2020/09/Salim-Yusuf-HORIZONTAL-GOOD.jpg",
+    "visitPayment": 320,
+    "description": "Salim Yusuf (born 26 November 1952) is an Indian-born Canadian physician. He is a cardiologist and epidemiologist.In 2014, he was awarded the Canada Gairdner Wightman Award and was inducted into the Canadian Medical Hall of Fame."
+  },
+  {
+    "id": 2,
+    "name": "Dr. M.N. Huda",
+    "specialist": "Dermatology and Venereology",
+    "nationality": "Bangladeshi",
+    "img": "https://doctoryouneed.org/wp-content/uploads/2019/09/M.N.-Huda-300x300.jpg",
+    "visitPayment": 200,
+    "description": "Prof. M.N. Huda is a Renowned Dermatologist in Dhaka, Bangladesh. This world- renowned doctor has bagged the overflowing respect and love for his excellent work and selfless services in health care sector. That is why he is  known as Best Dermatologist in South Asia."
+  },
+  {
+    "id": 3,
+    "name": "Dr Omkar Marathe",
+    "specialist": "Medical oncology and Hemaetology",
+    "nationality": "Indian -born American",
+    "img": "https://theoncologyinstitute.com/wp-content/uploads/2021/01/Omkar-Marathe-web-headshot.jpg",
+    "visitPayment": 280,
+    "description": "As a lifelong Southern Californian, Dr. Omkar Marathe earned his bachelor’s degree in neurosciences from UCLA and his MD degree from the David Geffen School of Medicine at UCLA. He trained in internal medicine at Scripps Green Hospital."
+  },
+  {
+    "id": 4,
+    "name": "Dr SYEED MEHBUB UL KADIR",
+    "specialist": "Ophthalmologists",
+    "img": "https://0.academia-photos.com/36493149/19424302/19342887/s200_mehbub.kadir.jpg",
+    "visitPayment": 235,
+    "nationality": "Bangladeshi",
+    "description": "Dr Syeed Mehbub Ul Kadir is an illustrious Orbit, Aesthetic, Ophthalmic Plastic, and Ocular Oncology specialist and Surgeon in Bangladesh. He completed his MBBS from Mymensingh medical college under Dhaka University. He then obtained Master in Ophthalmology (MS) at National Institute of Ophthalmology and Hospital under Dhaka University."
+  },
+  {
+    "id": 5,
+    "name": "Dr Niu Lizhi",
+    "specialist": "Surgeon specialist",
+    "nationality": "Chinese",
+    "img": "http://apaito.lincogndesign.com/image/catalog/home/Scientific-Committee-Prof-Li-Zhi-Niu.png",
+    "visitPayment": 295,
+    "description": "Niu Lizhi (born 1966) is a surgeon who specializes in minimally invasive cryosurgery for cancers. In 1996, he graduated from the Fourth Military Medical University with a doctoral degree in Thoracic & Cardiac Surgery.Lizhi is the president of Guangzhou Fuda Cancer Hospital and vice president of International Society of Cryosurgery."
+  },
+  {
+    "id": 6,
+    "name": "Dr. M. K Khan",
+    "specialist": "Otolaryngologists",
+    "nationalit": "Bangladeshi",
+    "img": "https://doctoryouneed.org/wp-content/uploads/2019/09/Prof.-Dr.-M-A-Khan.jpg",
+    "visitPayment": 260,
+    "description": "Prof. Dr. M. K Khan is a ENT Specialist & Head Neck Surgeon doctor in Mymensingh. His qualification is MBBS (DHAKA), DLO (DU). He is a Former Professor & Head in the Department of ENT at Mymensingh Medical College & Hospital.He is also serving in our institution and he is very popular E.N.T. specialist in Bangladesh and also prominent for his sincere operation"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Farhana Anam",
+    "specialist": "Gynecologists",
+    "nationality": "Bangladeshi",
+    "img": "https://1.bp.blogspot.com/proxy/ACZ3Bxf59NaFn8qIoT58iILShABKSuBkfVafcMMOKTSFkPjQi9hwdOXPLQ_nhxR76npcVLo4DJCnqy4FptRs2c7PB7_gaiUzLUa6=s0-d",
+    "visitPayment": 220,
+    "description": "Dr. Farhana Anam is one of the most familiar as the greatest Gynecologist and Obstetricians in Bangladesh. She has a long 17 years of experience. She is recommended by 80% of patients.She is particularly experienced in the treatment of high-risk pregnancy and Gynecology diseases. She is also experienced in Seman Analysis and Freezing, Infertility Evaluation, Egg Donor Programs."
+  },
+  {
+    "id": 8,
+    "name": "Dr. Wahidur Rahman Chhoton",
+    "specialist": "Neurologists",
+    "nationality": "Bangladeshi",
+    "img": "https://scontent.fdac116-1.fna.fbcdn.net/v/t1.6435-9/123662050_10217760044703138_2487811050728969786_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_ohc=qx00bOXGo1sAX9rCb7B&_nc_ht=scontent.fdac116-1.fna&oh=db8b74981d04c293b1fb64340be780f1&oe=6191F186",
+    "visitPayment": 245,
+    "description": "Dr. Wahidur Rahman Choton is a neurologist specialist in our institution.He treats conditions of the nerves, spine, and brain.He is capable of treatmenting deseases of 1.epilepsy,2.Alzheimers disease,3.Parkinson’s disease,4.multiple sclerosis,5.neuropathy,6.stroke,7.migraine.He has a good reputation in his carrer.People choose him for his outstanding behaviour and treatment system."
+  }
+]
